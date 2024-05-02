@@ -8,7 +8,7 @@ import os
 
 app = Flask(__name__)
 
-API_KEY = 'd3273b2c8bba1f586f4a07acd3e4559e'  # Replace with your actual API key from OpenWeatherMap.org
+API_KEY = "YOU_API_KEY"  # Replace with your actual API key from OpenWeatherMap.org
 
 # List of San Antonio zip codes and their corresponding latitudes and longitudes
 san_antonio_zip_codes = {
